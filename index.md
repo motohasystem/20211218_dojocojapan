@@ -24,17 +24,13 @@ https://note.com/cdkamiyama/m/m1284da011111
 <!--
 headingDivider: 1
 -->
-
 <!--
-_class: top
+class: normal
 -->
 
 <!-- ![bg](img/image1.png) -->
 ![bg](img/thumbnail.png)
 
-<!--
-class: normal
--->
 
 # 目次
 - CoderDojo神山の紹介
@@ -191,5 +187,3 @@ class: normal
 ## 高校生くらいも興味持ってくんないかなー？
 
 # ご清聴ありがとうございました
-
-<!-- ![bg 80% right](img/profile.jpg) -->
